@@ -1,0 +1,89 @@
+
+body{
+    background-image: url("home.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0,0,0,0.5);
+}
+.navbar{
+    text-decoration: none;
+  width:75%;  
+  padding-left:1000px ;
+  justify-content: space-between;
+  
+  display:inline;
+}
+
+h1{ padding-left: 30px;
+    font-size: 55px;
+}
+
+.navbar1{
+    text-decoration: none;
+  width:75%;  
+  padding-left:50px ;
+  justify-content: space-between;
+   display:inline;
+
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+
+}
+a:hover{
+    text-decoration: underline;
+}
+.one{
+   
+    height: 100%;}
+.body{
+    background-color: rgba(0,0,0,0.5);
+    width : 100%;
+    height : 1000px;
+}
+.p{
+ font-size: 50px;
+padding-top: 18%;
+padding-bottom: 60px;
+text-align: center;
+}
+.h{
+   text-align: center; 
+   font-size: 35px;
+}
+button{
+    text-decoration: none;
+    font-size: 25px;
+   size: 25px;
+   margin-right: 20px; 
+   border-radius:70px;
+   padding-right: 30px;
+   padding-left:30px;
+   background-color: transparent;
+   color: white;
+}
+.s{
+   padding-left:45px ;
+   padding-top: 20px;
+   padding-bottom: 20px; 
+   padding-right:45px ;
+   margin-left: 750px;
+   
+}
+.p{
+    color:whitesmoke;
+}
+.h{
+    color: white;
+
+}
+button:hover{
+    color :palevioletred;
+    
+    background-color: green;
+}
+h1{
+    color: orangered;
+}
